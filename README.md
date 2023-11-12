@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 
 - 🔭 Estou trabalhando atualmente desenvolvendo uma plataforma.
 - 🌱 Costumo ler muito, artigos e livros, hoje estou lendo "Código Limpo".
-
-###Da uma olhada em algumas tecnologias e linguagens que atuo:
 <div style="display: inline_block"><br>
+  <h3>Da uma olhada em algumas tecnologias e linguagens que atuo:</h3>
   <ol>
     <li>
       <p>Linguagens Front-end</p>
