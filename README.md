@@ -2,11 +2,13 @@
 
 Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidamos de toda a parte de desenvolvimento, suporte e correções. Possuo conhecimento de integrações, banco de dados, front-end, back-end e uma ideia bem abrangente de negócios, dado a minha formação de Processos Gerenciais. 
 
-- 🔭 Estou trabalhando atualmente desenvolvendo uma plataforma.
+- 💻 Sou desenvolvedor
+- ⚙️ Lidero equipe
+- 🔭 Estou desenvolvendo uma plataforma.
 - 🌱 Costumo ler muito, artigos e livros, hoje estou lendo "Código Limpo".
 <div style="display: inline_block"><br>
   <h3>Da uma olhada em algumas tecnologias e linguagens que atuo:</h3>
-  <ul style="display: inline_block">
+  <ul style="display: flex">
     <li>
       <p>Linguagens Front-end</p>
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
