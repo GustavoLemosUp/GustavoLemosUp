@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo e seja bem vindo 👋
 
-Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidamos de toda a parte de desenvolvimento, suporte e correções. Possuo conhecimento de integrações, banco de dados, front-end e uma ideia bem abrangente de negócios. 
+Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidamos de toda a parte de desenvolvimento, suporte e correções. Possuo conhecimento de integrações, banco de dados, front-end, back-end e uma ideia bem abrangente de negócios, dado a minha formação de Processos Gerenciais. 
 
 - 🔭 Estou trabalhando atualmente desenvolvendo uma plataforma.
 - 🌱 Costumo ler muito, artigos e livros, hoje estou lendo "Código Limpo".
@@ -32,7 +32,7 @@ Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidamos de toda a part
 </div>
   
   ##
- 
+<!-- 
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -41,5 +41,5 @@ Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidamos de toda a part
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+</div>--!>
 
