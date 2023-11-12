@@ -6,7 +6,7 @@ Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidados de toda a part
 - 🌱 Costumo ler muito, artigos e livros, hoje estou lendo "Código Limpo".
 <div style="display: inline_block"><br>
   <h3>Da uma olhada em algumas tecnologias e linguagens que atuo:</h3>
-  <ol>
+  <ol style="display: inline_block">
     <li>
       <p>Linguagens Front-end</p>
       <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +17,6 @@ Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidados de toda a part
       <p>Linguagens Back-end</p>
       <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
     </li>
     <li>
       <p>Frameworks</p>
