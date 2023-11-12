@@ -1,6 +1,6 @@
 ## Olá, eu sou o Gustavo e seja bem vindo 👋
 
-Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidados de toda a parte de desenvolvimento, suporte e correções. 
+Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidamos de toda a parte de desenvolvimento, suporte e correções. Possuo conhecimento de integrações, banco de dados, front-end e uma ideia bem abrangente de negócios. 
 
 - 🔭 Estou trabalhando atualmente desenvolvendo uma plataforma.
 - 🌱 Costumo ler muito, artigos e livros, hoje estou lendo "Código Limpo".
