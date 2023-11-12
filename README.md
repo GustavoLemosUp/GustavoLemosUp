@@ -1,9 +1,6 @@
 ## Olá, eu sou o Gustavo e seja bem vindo 👋
 
-
-**GustavoLemosUp/GustavoLemosUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidados de toda a parte de desenvolvimento, suporte e correções. 
 
 - 🔭 Estou trabalhando atualmente desenvolvendo uma plataforma.
 - 🌱 Costumo ler muito, artigos e livros, hoje estou lendo "Código Limpo".
@@ -20,6 +17,7 @@ Here are some ideas to get you started:
       <p>Linguagens Back-end</p>
       <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
       <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
     </li>
     <li>
       <p>Frameworks</p>
