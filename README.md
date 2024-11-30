@@ -2,10 +2,10 @@
 
 Trabalho hoje gerenciando uma equipe de tecnologia, onde cuidamos de toda a parte de desenvolvimento, suporte e correções. Possuo conhecimento de integrações, banco de dados, front-end, back-end e uma ideia bem abrangente de negócios, dado a minha formação de Processos Gerenciais. 
 
-- 💻 Sou desenvolvedor;
-- ⚙️ Lidero uma equipe;
-- 🔭 Estou criando uma plataforma;
-- 🌱 Estou lendo "Código Limpo";
+- 💻 Desenvolvedor Full Stack;
+- ⚙️ Liderança de equipe;
+- 🔭 Criando uma plataforma;
+- 🌱 Lendo "Código Limpo";
 - 🚀 Focado em meu crescimento.
 <div style="display: inline_block"><br>
   <h3>Da uma olhada em algumas tecnologias e linguagens que atuo:</h3>
