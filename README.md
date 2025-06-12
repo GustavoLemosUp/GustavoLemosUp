@@ -59,6 +59,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### **Plataformas & Integrações**
+![Sankhya](https://img.shields.io/badge/Sankhya-0052CC?style=for-the-badge&logoColor=white)
+![Ploomes](https://img.shields.io/badge/Ploomes-7C3AED?style=for-the-badge&logoColor=white)
+![Blip](https://img.shields.io/badge/Blip-00D4FF?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
 </div>
 
 ---
