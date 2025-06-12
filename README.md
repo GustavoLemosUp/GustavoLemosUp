@@ -6,52 +6,31 @@
 
 </div>
 
-## 🏆 **Conquistas & Impacto**
-
-<div align="center">
-
-| Área | Conquista | Impacto |
-|------|-----------|---------|
-| 🚀 **Liderança** | Gestão de equipe multidisciplinar | +50% eficiência em entregas |
-| 🔧 **Desenvolvimento** | Arquitetura de soluções complexas | -40% tempo de desenvolvimento |
-| 🔗 **Integrações** | Automação de processos críticos | -60% overhead operacional |
-| 📈 **Negócios** | Alinhamento técnico-estratégico | ROI positivo em 6 meses |
-
-</div>
-
-### 🎯 **Principais Realizações**
-- ✅ **Liderança Técnica:** Transformação digital com metodologias ágeis
-- ✅ **Otimização de Performance:** Melhoria de 200% em tempo de resposta
-- ✅ **Gestão de Pessoas:** Desenvolvimento de talentos e retenção de equipe
-- ✅ **Inovação:** Implementação de soluções disruptivas no mercado
-
 ---
 
-## 🎓 **Formação & Certificações**
+## 🎓 **Formação & Desenvolvimento**
 
 ### 📚 **Formação Acadêmica**
-- **Processos Gerenciais** - Visão estratégica de negócios e gestão
-- **Desenvolvimento Full-Stack** - Formação técnica complementar
+- **Análise e Desenvolvimento de Sistemas** - Base técnica sólida
+- **Processos Gerenciais** - Visão estratégica de negócios
 
-### 🏆 **Especializações**
-- **Arquitetura de Software** - Design patterns e boas práticas
-- **Liderança de Equipes Técnicas** - Gestão ágil e desenvolvimento de pessoas
-- **Integração de Sistemas** - APIs, microserviços e soluções enterprise
+### 🎯 **Pós-Graduações**
+- **Inteligência Artificial** - Especialização em IA e Machine Learning
+- **Marketing e Growth** - Estratégias de crescimento e análise de mercado
 
-### 📖 **Desenvolvimento Contínuo**
-- **Atualmente:** "Código Limpo" - Robert C. Martin
-- **Foco:** Clean Architecture, SOLID principles, Test-Driven Development
-- **Próximos:** Domain-Driven Design, Microservices Patterns
+### 📖 **Estudos Atuais**
+- **Lendo:** "Código Limpo" - Robert C. Martin
+- **Foco:** Clean Architecture, SOLID principles, boas práticas
 
 ---
 
 ## 🚀 **Sobre Mim**
 
-💼 **Líder de Tecnologia** com experiência sólida em gestão de equipes de desenvolvimento  
-🔧 **Full Stack Developer** especializado em soluções completas e integração de sistemas  
-📊 **Formação em Processos Gerenciais** com visão estratégica de negócios  
-📚 **Estudante contínuo** - atualmente lendo "Código Limpo" para aprimorar práticas de desenvolvimento  
-🎯 **Objetivo:** Criar soluções tecnológicas que transformam ideias em realidade
+💼 **Gerente de Tecnologia** com experiência em gestão de equipes de desenvolvimento  
+🔧 **Desenvolvedor Full Stack** com foco em soluções de integração  
+📊 **Background em negócios** com pós-graduações em IA e Marketing  
+📚 **Aprendizado contínuo** - sempre estudando para melhorar as práticas  
+🎯 **Objetivo:** Entregar soluções que funcionem e agreguem valor
 
 ---
 
@@ -79,18 +58,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
 ---
 
-## 🎯 **Áreas de Expertise**
+## 🎯 **Áreas de Atuação**
 
 <table align="center">
 <tr>
@@ -98,27 +71,27 @@
 
 **🔧 Desenvolvimento**
 - Arquitetura de Software
-- APIs RESTful
-- Microserviços
-- Integração de Sistemas
+- APIs e Integrações
+- Full Stack Development
+- Banco de Dados
 
 </td>
 <td align="center" width="33%">
 
-**👥 Liderança**
-- Gestão de Equipes Tech
+**👥 Gestão**
+- Coordenação de Equipes
 - Metodologias Ágeis
+- Planejamento de Projetos
 - Code Review
-- Mentoria Técnica
 
 </td>
 <td align="center" width="33%">
 
-**📈 Negócios**
+**📈 Estratégia**
 - Análise de Processos
-- Otimização de Workflows
+- Growth e Marketing
+- Inteligência Artificial
 - Tomada de Decisões
-- Visão Estratégica
 
 </td>
 </tr>
@@ -161,60 +134,29 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 🌟 **Filosofia de Trabalho**
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolemos&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolemos&layout=compact&theme=radical&hide_border=true)
-
-</div>
+🎯 **Foco:** Resolver problemas reais com soluções simples e eficazes  
+🤝 **Abordagem:** Colaboração, transparência e melhoria contínua  
+⚡ **Valores:** Qualidade técnica, aprendizado constante e entrega de valor
 
 ---
 
-## 🌟 **Valores & Filosofia Profissional**
-
-<div align="center">
-
-### 💡 **Mindset de Liderança**
-*"Grandes líderes não criam seguidores, eles criam outros líderes"*
-
-</div>
-
-🎯 **Visão:** Transformar desafios técnicos em oportunidades de crescimento  
-🤝 **Missão:** Desenvolver pessoas e construir soluções que impactam positivamente o negócio  
-⚡ **Valores:** Inovação, Colaboração, Excelência Técnica e Crescimento Contínuo
-
-### 🚀 **Princípios de Liderança**
-- **Empoderamento:** Capacitar a equipe para tomar decisões técnicas assertivas
-- **Mentoria:** Investir no desenvolvimento técnico e pessoal dos colaboradores
-- **Inovação:** Fomentar cultura de experimentação e aprendizado contínuo
-- **Resultados:** Focar em entregas de valor com qualidade e eficiência
-
----
-
-## 🌱 **Crescimento Contínuo & Roadmap 2025**
+## 🌱 **Crescimento Contínuo**
 
 ```javascript
 const gustavo = {
-    currentRole: "Gerente de Tecnologia & Tech Lead",
-    currentFocus: "Liderança Técnica & Desenvolvimento Full Stack",
+    role: "Gerente de Tecnologia",
     currentReading: "Código Limpo - Robert C. Martin",
-    nextBooks: ["Clean Architecture", "Domain-Driven Design"],
-    goals2025: [
-        "🏗️ Dominar arquiteturas distribuídas e microserviços",
-        "👥 Expandir habilidades de liderança e gestão de pessoas",
-        "🚀 Criar impacto positivo através da inovação tecnológica",
-        "🌎 Contribuir com a comunidade tech brasileira"
+    interests: ["Clean Architecture", "IA", "Growth Marketing"],
+    goals: [
+        "Melhorar práticas de desenvolvimento",
+        "Aprender mais sobre liderança técnica",
+        "Aplicar IA em soluções práticas"
     ],
-    philosophy: "A tecnologia deve servir às pessoas, não o contrário",
-    leadership: "Developing people, delivering value, driving innovation"
+    mindset: "Sempre tem algo novo para aprender"
 }
 ```
-
-### 🎯 **Meta Atual**
-*Transformar-me no líder técnico que eu gostaria de ter tido no início da minha carreira*
 
 ---
 
@@ -237,7 +179,5 @@ const gustavo = {
 
 ### *"Código limpo não é escrito seguindo um conjunto de regras. Você não se torna um artesão de software aprendendo uma lista do que fazer e o que não fazer. Profissionalismo e artesanato vêm da disciplina."*
 **— Robert C. Martin**
-
-![Profile Views](https://komarev.com/ghpvc/?username=gustavolemos&color=brightgreen&style=for-the-badge)
 
 </div>
