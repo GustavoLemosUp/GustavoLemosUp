@@ -60,9 +60,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Plataformas & Integrações**
-![Sankhya](https://img.shields.io/badge/Sankhya-0052CC?style=for-the-badge&logoColor=white)
-![Ploomes](https://img.shields.io/badge/Ploomes-7C3AED?style=for-the-badge&logoColor=white)
-![Blip](https://img.shields.io/badge/Blip-00D4FF?style=for-the-badge&logoColor=white)
+![Sankhya](https://img.shields.io/badge/Sankhya-5CB85C?style=for-the-badge&logoColor=white)
+![Ploomes](https://img.shields.io/badge/Ploomes-8B5CF6?style=for-the-badge&logoColor=white)
+![Blip](https://img.shields.io/badge/Blip-00BFFF?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 </div>
@@ -172,8 +172,8 @@ const gustavo = {
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.lemos@updatecommit.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lgustavo-lemos/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoLemosUp)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521936185311)
 
 **💬 Vamos conversar sobre tecnologia, liderança ou oportunidades de colaboração!**
 
