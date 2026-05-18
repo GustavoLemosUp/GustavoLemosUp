@@ -1,36 +1,23 @@
 <div align="center">
-<br/>
-
-<!--  N A M E  -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=52&duration=0&pause=0&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&height=80&lines=Gustavo+Lemos" alt="Gustavo Lemos"/>
 
 <br/>
 
-<!--  T I T L E  -->
-<img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=300&size=15&duration=4000&pause=2000&color=A855F7&center=true&vCenter=true&width=700&height=30&lines=Tech+Manager+%C2%B7+Full+Stack+%C2%B7+Integration+Specialist;Founder+%40+UpdateCommit+%C2%B7+Rio+de+Janeiro;Building+systems+that+actually+work." alt="subtitle"/>
+# Gustavo Lemos
 
-<br/><br/>
+*Tech Manager · Full Stack Developer · Integration Specialist*
 
-<!--  C O N T A C T  -->
-<a href="https://www.linkedin.com/in/lgustavo-lemos/">
-  <img src="https://img.shields.io/badge/LinkedIn-%23ffffff?style=flat&logo=linkedin&logoColor=black&labelColor=ffffff" height="22"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://updatecommit.com">
-  <img src="https://img.shields.io/badge/updatecommit.com-%23ffffff?style=flat&logo=vercel&logoColor=black&labelColor=ffffff" height="22"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:gustavo.lemos@updatecommit.com">
-  <img src="https://img.shields.io/badge/Email-%23ffffff?style=flat&logo=gmail&logoColor=black&labelColor=ffffff" height="22"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://wa.me/5521936185311">
-  <img src="https://img.shields.io/badge/WhatsApp-%23ffffff?style=flat&logo=whatsapp&logoColor=black&labelColor=ffffff" height="22"/>
-</a>
+Founder @ [UpdateCommit](https://updatecommit.com) · Rio de Janeiro, Brasil 🇧🇷
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=GustavoLemosUp&style=flat&color=6d28d9&label=profile+views" height="18"/>
+[💼 LinkedIn](https://www.linkedin.com/in/lgustavo-lemos/) &nbsp;·&nbsp;
+[🌐 updatecommit.com](https://updatecommit.com) &nbsp;·&nbsp;
+[✉️ gustavo.lemos@updatecommit.com](mailto:gustavo.lemos@updatecommit.com) &nbsp;·&nbsp;
+[💬 WhatsApp](https://wa.me/5521936185311)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=GustavoLemosUp&style=flat&color=6d28d9&label=profile+views)
 
 </div>
 
@@ -62,24 +49,66 @@ const gustavo = {
 
 <br/>
 
-<div align="center">
-
-## Stats
+## 🛠 Stack
 
 <br/>
 
-<img height="195"
-  src="https://github-readme-stats.vercel.app/api?username=GustavoLemosUp&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=a855f7&text_color=d1d5db&bg_color=00000000&include_all_commits=true&count_private=true&rank_icon=github&hide=contribs"/>
+**Languages**
+&nbsp; `Java` &nbsp; `Python` &nbsp; `Node.js` &nbsp; `Go` &nbsp; `JavaScript` &nbsp; `TypeScript`
+
+**Frontend**
+&nbsp; `React` &nbsp; `HTML5` &nbsp; `CSS3`
+
+**Databases**
+&nbsp; `Oracle` &nbsp; `MongoDB` &nbsp; `PostgreSQL`
+
+**Infrastructure**
+&nbsp; `Docker` &nbsp; `AWS` &nbsp; `Git`
+
+**Integrations & Platforms**
+&nbsp; `Sankhya ERP` &nbsp; `n8n` &nbsp; `Blip` &nbsp; `Ploomes` &nbsp; `REST APIs` &nbsp; `Webhooks`
+
+<br/>
+
+---
+
+<br/>
+
+## 📂 Work
+
+<br/>
+
+| Project | Stack | Description |
+|---|---|---|
+| **Bot Eletrofrigor** | Node.js · Blip · Sankhya | WhatsApp sales bot with AI + ERP integration |
+| **Plataforma Beiaba** | React · Node.js · MongoDB | Full platform with AI and automation pipelines |
+| **Integration Hub** | Java · Python · Oracle | RESTful APIs, webhooks and ETL processes |
+| **UpdateCommit** | Full Stack · Docker · AWS | Software house — automation and AI for business |
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 📊 Stats
+
+<br/>
+
+<img height="180"
+  src="https://github-readme-stats.vercel.app/api?username=GustavoLemosUp&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2d9f3&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+&nbsp;&nbsp;
+
+<img height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLemosUp&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2d9f3&bg_color=0d1117"/>
 
 <br/><br/>
 
-<img height="195"
-  src="https://streak-stats.demolab.com/?user=GustavoLemosUp&theme=transparent&hide_border=true&stroke=6d28d9&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a855f7&sideLabels=6d28d9&dates=6b7280&background=00000000"/>
-
-<br/><br/>
-
-<img height="195"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLemosUp&layout=donut-vertical&langs_count=6&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db&bg_color=00000000"/>
+<img width="60%"
+  src="https://streak-stats.demolab.com/?user=GustavoLemosUp&theme=transparent&hide_border=true&stroke=6d28d9&ring=a855f7&fire=c084fc&currStreakNum=e2d9f3&sideNums=e2d9f3&currStreakLabel=a855f7&sideLabels=6d28d9&dates=9f7aea&background=0d1117"/>
 
 </div>
 
@@ -89,38 +118,16 @@ const gustavo = {
 
 <br/>
 
-## Work
-
-<br/>
-
-| &nbsp; | &nbsp; |
-|---|---|
-| **Bot Eletrofrigor** | WhatsApp sales bot with AI — integrated with Sankhya ERP |
-| **Plataforma Beiaba** | Full platform with automation pipelines and AI features |
-| **Integration Hub** | RESTful APIs, webhooks, ETL — Java · Python · Oracle |
-| **UpdateCommit** | Software house focused on automation and AI for business |
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
 
-## Contributions
+## 🐍 Contributions
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/snake-custom.svg"/>
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/snake-custom.svg"/>
-  <img alt="contribution snake"
-    src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/snake-custom.svg"
-    width="100%"/>
-</picture>
+<img
+  src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/snake-custom.svg"
+  width="100%"
+  alt="contribution snake"/>
 
 </div>
 
@@ -132,12 +139,12 @@ const gustavo = {
 
 <div align="center">
 
-## Activity
+## 📈 Activity
 
 <br/>
 
 <img width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLemosUp&bg_color=00000000&color=a855f7&line=6d28d9&point=ffffff&area=true&hide_border=true&area_color=3b0764&radius=4"/>
+  src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLemosUp&bg_color=0d1117&color=a855f7&line=6d28d9&point=e2d9f3&area=true&hide_border=true&area_color=3b0764&radius=4"/>
 
 </div>
 
@@ -149,15 +156,11 @@ const gustavo = {
 
 <div align="center">
 
-<sub>
-"Clean code is not written by following a set of rules.<br/>
-Professionalism and craftsmanship come from discipline."<br/><br/>
-— Robert C. Martin
-</sub>
+<sub><i>"Clean code is not written by following a set of rules.<br/>Professionalism and craftsmanship come from discipline."<br/>— Robert C. Martin</i></sub>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20collaborate-%236d28d9?style=flat&labelColor=0d1117&color=6d28d9" height="20"/>
+<sub>Open to collaborate · <a href="https://updatecommit.com">updatecommit.com</a></sub>
 
 </div>
 
