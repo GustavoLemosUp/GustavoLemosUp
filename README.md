@@ -329,19 +329,23 @@ Essa combinação representa a forma como enxergo tecnologia:
 
 ---
 
-## 📊 GitHub
+## 💻 GitHub & Portfólio Técnico
 
-<div align="center">
+Meu GitHub reúne projetos, experimentos e referências técnicas relacionados às áreas em que atuo.
 
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api?username=GustavoLemosUp&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2d9f3&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
+### O que você encontrará por aqui
 
-&nbsp;
+- APIs e integrações entre sistemas
+- Automação de processos
+- Backend com Java, Go, Node.js e Python
+- Aplicações web e produtos digitais
+- Estudos de arquitetura e engenharia de software
+- Inteligência Artificial aplicada a problemas de negócio
+- Projetos e experimentos de Engenharia de Dados
 
-<img height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLemosUp&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2d9f3&bg_color=0d1117"/>
+> Nem todo o trabalho que desenvolvo pode ser publicado devido a contratos, propriedade intelectual e dados de clientes. Por isso, este perfil funciona como uma amostra da minha atuação técnica e dos temas que estudo e desenvolvo.
 
-</div>
+**Perfil:** [github.com/GustavoLemosUp](https://github.com/GustavoLemosUp)
 
 ---
 
