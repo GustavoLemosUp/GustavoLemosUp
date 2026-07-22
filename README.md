@@ -4,164 +4,357 @@
 
 # Gustavo Lemos
 
-*Tech Manager · Full Stack Developer · Integration Specialist*
+### Líder de Tecnologia · Gestão de Projetos · Transformação Digital
 
-Founder @ [UpdateCommit](https://updatecommit.com) · Rio de Janeiro, Brasil 🇧🇷
+**Pessoas · Produtos · Sistemas · Dados · IA**
+
+Fundador da [UpdateCommit](https://updatecommit.com) · Rio de Janeiro, Brasil 🇧🇷
 
 <br/>
 
-[💼 LinkedIn](https://www.linkedin.com/in/lgustavo-lemos/) &nbsp;·&nbsp;
-[🌐 updatecommit.com](https://updatecommit.com) &nbsp;·&nbsp;
-[✉️ gustavo.lemos@updatecommit.com](mailto:gustavo.lemos@updatecommit.com) &nbsp;·&nbsp;
+[💼 LinkedIn](https://www.linkedin.com/in/guslemos/)
+&nbsp;·&nbsp;
+[🌐 UpdateCommit](https://updatecommit.com)
+&nbsp;·&nbsp;
+[✉️ E-mail](mailto:gustavo.lemos@updatecommit.com)
+&nbsp;·&nbsp;
 [💬 WhatsApp](https://wa.me/5521936185311)
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=GustavoLemosUp&style=flat&color=6d28d9&label=profile+views)
-
 </div>
-
-<br/>
 
 ---
 
-<br/>
+## 👋 Sobre mim
 
-```typescript
-const gustavo = {
-  role     : "Tech Manager  ·  Founder",
-  company  : "UpdateCommit",
-  location : "Rio de Janeiro, BR",
+Sou líder de tecnologia com uma trajetória construída de forma prática dentro da operação, evoluindo de funções técnicas até a liderança da área de TI.
 
-  languages : ["Java", "Python", "Node.js", "Go", "React"],
-  databases : ["Oracle", "MongoDB", "PostgreSQL"],
-  platforms : ["Sankhya ERP", "n8n", "Blip", "Ploomes", "Docker", "AWS"],
+Hoje, minha atuação está na interseção entre **pessoas, tecnologia e negócio**.
 
-  focus    : ["Clean Architecture", "APIs & Integrations", "AI & Automation"],
-  reading  : "Clean Code — Robert C. Martin",
-  mindset  : "Simple solutions to real problems.",
-};
+Lidero times técnicos, organizo prioridades, acompanho entregas, apoio o desenvolvimento de profissionais e conduzo iniciativas envolvendo ERP, CRM, Business Intelligence, integrações, automação, infraestrutura, dados e Inteligência Artificial.
+
+Minha base técnica me permite participar de discussões de arquitetura, entender trade-offs e apoiar decisões de engenharia sem perder o foco no impacto para o negócio, na qualidade das entregas e na evolução sustentável dos sistemas.
+
+Também sou fundador da **UpdateCommit**, onde conduzo projetos e produtos de tecnologia desde o diagnóstico e desenho da solução até a implantação, sustentação e evolução.
+
+---
+
+## 🎯 Como eu trabalho
+
+```text
+Necessidade do negócio
+        ↓
+Diagnóstico e requisitos
+        ↓
+Priorização e roadmap
+        ↓
+Arquitetura e planejamento
+        ↓
+Execução do time
+        ↓
+Entrega e implantação
+        ↓
+Indicadores, sustentação e melhoria contínua
 ```
 
-<br/>
+Principais áreas de atuação:
+
+- Liderança de tecnologia e desenvolvimento de pessoas
+- Gestão de projetos e delivery
+- Transformação digital
+- Implantação e modernização de sistemas
+- ERP, CRM e sistemas corporativos
+- APIs e integração entre sistemas
+- Dados, BI e indicadores
+- Inteligência Artificial e automação de processos
+- Arquitetura de software e decisões técnicas
+- DevOps, CI/CD e infraestrutura de aplicações
 
 ---
 
-<br/>
+## 👥 Liderança e Delivery
 
-## 🛠 Stack
+Alguns destaques da minha atuação atual:
 
-<br/>
+- Formação e liderança de time técnico interno
+- Condução de 1:1s, feedbacks e acompanhamento de evolução
+- Gestão e priorização de mais de **300 demandas de tecnologia**
+- **88% das demandas concluídas** no primeiro semestre de 2026
+- **70% das solicitações resolvidas em até 7 dias**
+- Atendimento e evolução tecnológica de mais de **8 áreas de negócio**
+- Coordenação de incidentes, melhorias, integrações e projetos estratégicos
+- Tradução de necessidades de negócio em prioridades e entregas estruturadas
+- Comunicação entre tecnologia, áreas de negócio, liderança, clientes e parceiros
 
-**Languages**
-&nbsp; `Java` &nbsp; `Python` &nbsp; `Node.js` &nbsp; `Go` &nbsp; `JavaScript` &nbsp; `TypeScript`
+Acredito que liderança em tecnologia não significa ter todas as respostas.
 
-**Frontend**
-&nbsp; `React` &nbsp; `HTML5` &nbsp; `CSS3`
-
-**Databases**
-&nbsp; `Oracle` &nbsp; `MongoDB` &nbsp; `PostgreSQL`
-
-**Infrastructure**
-&nbsp; `Docker` &nbsp; `AWS` &nbsp; `Git`
-
-**Integrations & Platforms**
-&nbsp; `Sankhya ERP` &nbsp; `n8n` &nbsp; `Blip` &nbsp; `Ploomes` &nbsp; `REST APIs` &nbsp; `Webhooks`
-
-<br/>
+Significa criar um ambiente em que o time consiga tomar decisões melhores, remover bloqueios, entender prioridades e entregar valor de forma consistente.
 
 ---
 
-<br/>
+## 🚀 Projetos e experiências relevantes
 
-## 📂 Work
+### Transformação de Tecnologia Corporativa
 
-<br/>
+**ERP · Sistemas Internos · Integrações · Processos**
 
-| Project | Stack | Description |
-|---|---|---|
-| **Bot Eletrofrigor** | Node.js · Blip · Sankhya | WhatsApp sales bot with AI + ERP integration |
-| **Plataforma Beiaba** | React · Node.js · MongoDB | Full platform with AI and automation pipelines |
-| **Integration Hub** | Java · Python · Oracle | RESTful APIs, webhooks and ETL processes |
-| **UpdateCommit** | Full Stack · Docker · AWS | Software house — automation and AI for business |
+Participei da implantação, estabilização e evolução contínua do **ERP Sankhya**, apoiando processos das áreas comercial, financeira, fiscal, logística, compras, RH, garantia e e-commerce.
 
-<br/>
+Principais frentes:
+
+- Mapeamento de processos
+- Evolução e customização do ERP
+- Integração entre sistemas
+- Automação de atividades manuais
+- Gestão e resolução de incidentes
+- Priorização técnica
+- Alinhamento com áreas de negócio
+- Relatórios, dados e indicadores
 
 ---
 
-<br/>
+### CRM Interno e BI de Vendas
+
+**Produto · Dados · Business Intelligence**
+
+Desenvolvimento e evolução de soluções internas de CRM e BI integradas ao ERP.
+
+As soluções ampliaram a visibilidade sobre:
+
+- Cotações
+- Desempenho comercial
+- Comportamento de clientes
+- Indicadores de vendas
+- Resultados por gerente e equipe
+- Informações para tomada de decisão
+
+---
+
+### Ecossistema de Integrações e Automação
+
+**APIs · ERP · E-commerce · Marketplaces · Serviços Financeiros**
+
+Desenvolvimento e coordenação de integrações envolvendo plataformas como:
+
+- Sankhya ERP
+- Mercado Livre
+- VNDA
+- Intelipost
+- Equals
+- Suri
+- n8n
+- Plataformas de WhatsApp
+- APIs financeiras e logísticas
+
+Principais conceitos aplicados:
+
+`REST APIs` · `Webhooks` · `ETL/ELT` · `Filas` · `Automação` · `Regras de Negócio`
+
+---
+
+### Inteligência Artificial e Automação Inteligente
+
+Aplicação de Inteligência Artificial em processos reais de negócio.
+
+Alguns exemplos:
+
+- Assistentes de IA para apoio comercial
+- Automação de atendimento
+- Análise de documentos
+- Uso de IA no fluxo de desenvolvimento
+- Integração com LLMs
+- Agentes e fluxos automatizados
+- Orquestração com n8n
+- IA aplicada a produtos SaaS e sistemas internos
+
+Meu foco não é utilizar IA apenas como experimento.
+
+Busco aplicações que tragam melhoria concreta em:
+
+**produtividade · experiência do cliente · automação · tomada de decisão**
+
+---
+
+## 🏢 UpdateCommit
+
+### Fundador · Liderança de Tecnologia · Produtos · Delivery
+
+A [UpdateCommit](https://updatecommit.com) é minha empresa de tecnologia focada em software, integrações, automação e produtos digitais.
+
+Atuo em todo o ciclo dos projetos:
+
+```text
+Diagnóstico
+    ↓
+Requisitos
+    ↓
+Escopo e estimativa
+    ↓
+Arquitetura
+    ↓
+Desenvolvimento
+    ↓
+Implantação
+    ↓
+Sustentação
+    ↓
+Evolução
+```
+
+Projetos e soluções incluem:
+
+- Produtos SaaS
+- Integrações com ERPs
+- Integrações com marketplaces
+- Integrações financeiras
+- APIs e webhooks
+- Plataformas de automação
+- Soluções com Inteligência Artificial
+- Dashboards e sistemas corporativos
+
+---
+
+## 🧾 Plataforma SaaS de NFS-e
+
+Desenvolvimento de uma solução SaaS voltada à emissão e gestão de Nota Fiscal de Serviço eletrônica.
+
+Principais capacidades:
+
+- Emissão de NFS-e
+- Emissão recorrente
+- API REST
+- Webhooks
+- Gestão multiempresa
+- Certificados digitais
+- Processamento de XML e documentos
+- Integrações fiscais
+- Infraestrutura de aplicação
+
+Este projeto reúne:
+
+**produto + arquitetura de software + integração + regras fiscais + operação SaaS**
+
+---
+
+## 🧠 Minha visão sobre liderança em tecnologia
+
+Acredito que times de tecnologia de alta performance precisam equilibrar quatro dimensões:
+
+### Pessoas
+
+Desenvolvimento, autonomia, feedback, confiança e segurança para colaborar.
+
+### Delivery
+
+Prioridades claras, visibilidade, planejamento realista e resultados mensuráveis.
+
+### Engenharia
+
+Qualidade, manutenibilidade, arquitetura, segurança e confiabilidade operacional.
+
+### Negócio
+
+Decisões de tecnologia precisam apoiar clientes, operação e estratégia da empresa.
+
+Meu papel como líder é conectar essas quatro dimensões.
+
+---
+
+## 🛠 Background Técnico
+
+Continuo tecnicamente próximo o suficiente do time para compreender desafios de engenharia, participar de discussões de arquitetura e avaliar trade-offs.
+
+### Backend
+
+`Java` · `Spring Boot` · `Go` · `Node.js` · `Python`
+
+### Frontend
+
+`React` · `JavaScript` · `TypeScript`
+
+### Dados e Bancos
+
+`PostgreSQL` · `Oracle SQL` · `MySQL` · `MongoDB`
+
+### Integrações
+
+`REST APIs` · `Webhooks` · `Integração com ERP` · `ETL/ELT`
+
+### Infraestrutura e DevOps
+
+`Docker` · `GitHub Actions` · `CI/CD` · `Traefik` · `Nginx` · `Linux` · `VPS`
+
+### Automação e IA
+
+`n8n` · `LLMs` · `Agentes de IA` · `Automação de Workflows` · `Prompt Engineering`
+
+### Plataformas de Negócio
+
+`Sankhya ERP` · `Blip` · `Ploomes` · `Marketplaces` · `APIs Financeiras`
+
+---
+
+## 📚 Estudos atuais
+
+Acredito que liderança em tecnologia exige aprendizado contínuo.
+
+Atualmente estou aprofundando conhecimentos em:
+
+- Engenharia de Dados
+- System Design
+- Arquitetura de Software
+- Sistemas Distribuídos
+- Cloud e Platform Engineering
+- SRE e Observabilidade
+- Agentes de IA e arquiteturas com LLMs
+- Engineering Management
+- Métricas e governança de tecnologia
+- Design Patterns
+
+Atualmente curso uma **Pós-graduação em Engenharia de Dados**.
+
+---
+
+## 🎓 Formação
+
+- **Pós-graduação em Engenharia de Dados** — Descomplica Faculdade Digital · Em andamento
+- **Pós-graduação em Inteligência Artificial e Machine Learning** — XP Educação
+- **Análise e Desenvolvimento de Sistemas** — Descomplica
+- **Tecnólogo em Processos Gerenciais** — Universidade Federal Fluminense
+
+Essa combinação representa a forma como enxergo tecnologia:
+
+> **Gestão + Tecnologia + Dados + IA + Negócio**
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
-## 📊 Stats
-
-<br/>
-
-<img height="180"
+<img height="170"
   src="https://github-readme-stats.vercel.app/api?username=GustavoLemosUp&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2d9f3&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<img height="180"
+<img height="170"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLemosUp&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=a855f7&text_color=e2d9f3&bg_color=0d1117"/>
 
-<br/><br/>
-
-<img width="60%"
-  src="https://streak-stats.demolab.com/?user=GustavoLemosUp&theme=transparent&hide_border=true&stroke=6d28d9&ring=a855f7&fire=c084fc&currStreakNum=e2d9f3&sideNums=e2d9f3&currStreakLabel=a855f7&sideLabels=6d28d9&dates=9f7aea&background=0d1117"/>
-
 </div>
-
-<br/>
 
 ---
 
-<br/>
-
 <div align="center">
 
-## 🐍 Contributions
+### Transformando desafios de negócio em soluções de tecnologia estruturadas, escaláveis e sustentáveis.
 
 <br/>
 
-<img
-  src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/snake-custom.svg"
-  width="100%"
-  alt="contribution snake"/>
+[💼 LinkedIn](https://www.linkedin.com/in/guslemos/)
+&nbsp;·&nbsp;
+[🌐 UpdateCommit](https://updatecommit.com)
+&nbsp;·&nbsp;
+[✉️ E-mail](mailto:gustavo.lemos@updatecommit.com)
 
 </div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 📈 Activity
-
-<br/>
-
-<img width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoLemosUp&bg_color=0d1117&color=a855f7&line=6d28d9&point=e2d9f3&area=true&hide_border=true&area_color=3b0764&radius=4"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<sub><i>"Clean code is not written by following a set of rules.<br/>Professionalism and craftsmanship come from discipline."<br/>— Robert C. Martin</i></sub>
-
-<br/><br/>
-
-<sub>Open to collaborate · <a href="https://updatecommit.com">updatecommit.com</a></sub>
-
-</div>
-
-<br/>
