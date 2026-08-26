@@ -233,7 +233,7 @@ Atualmente aprofundo conhecimentos em **Engenharia de Dados, System Design, Arqu
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake.svg">
-  <img alt="Animação da grade de contribuições de Gustavo Lemos" src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Animação da grade de contribuições de Gustavo Lemos" src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
