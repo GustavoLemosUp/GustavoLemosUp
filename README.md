@@ -58,15 +58,13 @@ No dia a dia, trabalho com formação de times, priorização de demandas, gest�
 
 ## Da necessidade à entrega
 
-```mermaid
-flowchart LR
-    A[Desafio de negócio] --> B[Diagnóstico]
-    B --> C[Prioridades]
-    C --> D[Roadmap e arquitetura]
-    D --> E[Execução]
-    E --> F[Indicadores]
-    F --> G[Evolução contínua]
-```
+Entendo o contexto, conecto o ecossistema e conduzo a tecnologia até o resultado — com governança e evolução contínua.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/technology-loop-dark.svg?v=20260826-1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/technology-loop-light.svg?v=20260826-1">
+  <img width="100%" alt="Fluxo animado conectando negócio, ERP, APIs, automação, dados, IA e decisão" src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/technology-loop-light.svg?v=20260826-1">
+</picture>
 
 - Liderança de times e desenvolvimento de pessoas
 - Gestão de projetos, produtos, prioridades e riscos
@@ -130,16 +128,7 @@ Uso IA para gerar impacto concreto em produtividade, automação, experiência e
 
 Sou fundador da **UpdateCommit**, empresa de tecnologia focada em software sob medida, integrações, automação e produtos digitais.
 
-Atuo em todo o ciclo dos projetos:
-
-```mermaid
-flowchart LR
-    A[Diagnóstico] --> B[Escopo]
-    B --> C[Arquitetura]
-    C --> D[Desenvolvimento]
-    D --> E[Implantação]
-    E --> F[Sustentação e evolução]
-```
+Atuo em todo o ciclo dos projetos: `Diagnóstico` → `Escopo` → `Arquitetura` → `Desenvolvimento` → `Implantação` → `Sustentação e evolução`.
 
 ### Soluções
 
@@ -158,6 +147,27 @@ Desenvolvimento de uma plataforma para emissão e gestão de **Nota Fiscal de Se
 <div align="center">
 
 [![Conheça a UpdateCommit](https://img.shields.io/badge/Conheça_a_UpdateCommit-00AEFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://updatecommit.com)
+
+</div>
+
+---
+
+## Prova em código
+
+### Personal Cockpit — produto desktop local-first
+
+Aplicativo desktop construído com **Wails, Go, React, TypeScript e SQLite**. O repositório público expõe arquitetura modular, migrations, serviços, testes e documentação técnica — uma evidência verificável da capacidade de transformar uma visão de produto em software estruturado.
+
+| Produto | Engenharia | Qualidade |
+| :-- | :-- | :-- |
+| Dashboard, tarefas, notas, calendário, categorias e temas claro/escuro | Go no backend, React/TypeScript no frontend, SQLite e separação por serviços | Migrations, testes automatizados, documentação de arquitetura e roadmap |
+
+<div align="center">
+
+[![Código público](https://img.shields.io/badge/Código_público-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit)
+[![Arquitetura](https://img.shields.io/badge/Arquitetura-5128B5?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit/blob/main/docs/ARCHITECTURE.md)
+[![Testes](https://img.shields.io/badge/Testes-00AEFF?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit/blob/main/services/task_test.go)
+[![Roadmap](https://img.shields.io/badge/Roadmap-202020?style=for-the-badge&logo=githubprojects&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit/blob/main/docs/ROADMAP.md)
 
 </div>
 
@@ -231,9 +241,9 @@ Atualmente aprofundo conhecimentos em **Engenharia de Dados, System Design, Arqu
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="Animação da grade de contribuições de Gustavo Lemos" src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake-dark.svg?v=20260826-2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake.svg?v=20260826-2">
+  <img width="100%" alt="Animação da grade de contribuições de Gustavo Lemos" src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/output/github-contribution-grid-snake.svg?v=20260826-2">
 </picture>
 
 </div>
