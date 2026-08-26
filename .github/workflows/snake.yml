@@ -8,15 +8,19 @@ on:
     branches:
       - main
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
-      - name: Gerar Snake Animation
+      - name: Gerar animações da grade de contribuições
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,10 +28,11 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=a855f7&color_dots=#1e1b2e,#3b1f6e,#6d28d9,#9333ea,#c084fc
             dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=#0d0a1a,#2e1065,#6d28d9,#9333ea,#a855f7
 
-      - name: Push para branch output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publicar animações na branch output
+        uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist
+          jekyll: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
