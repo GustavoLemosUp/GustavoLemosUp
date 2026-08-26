@@ -25,8 +25,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=a855f7&color_dots=#1e1b2e,#3b1f6e,#6d28d9,#9333ea,#c084fc
-            dist/github-contribution-grid-snake-dark.svg?color_snake=ffffff&color_dots=#0d0a1a,#2e1065,#6d28d9,#9333ea,#a855f7
+            dist/github-contribution-grid-snake.svg?color_snake=a9a9a9&color_dots=#1e1b2e,#3b1f6e,#6d28d9,#9333ea,#c084fc
+            dist/github-contribution-grid-snake-dark.svg?color_snake=bebebe&color_dots=#0d0a1a,#2e1065,#6d28d9,#9333ea,#a855f7
 
       - name: Publicar animações na branch output
         uses: crazy-max/ghaction-github-pages@v5
