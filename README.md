@@ -66,16 +66,6 @@ Entendo o contexto, conecto o ecossistema e conduzo a tecnologia até o resultad
   <img width="100%" alt="Fluxo animado conectando negócio, ERP, APIs, automação, dados, IA e decisão" src="https://raw.githubusercontent.com/GustavoLemosUp/GustavoLemosUp/main/assets/technology-loop-light.svg?v=20260826-1">
 </picture>
 
-- Liderança de times e desenvolvimento de pessoas
-- Gestão de projetos, produtos, prioridades e riscos
-- Transformação digital e modernização de sistemas
-- Arquitetura de software e decisões técnicas
-- ERP, CRM e plataformas corporativas
-- APIs, webhooks e integração entre sistemas
-- Dados, indicadores e Business Intelligence
-- Inteligência Artificial e automação de processos
-- DevOps, CI/CD e infraestrutura de aplicações
-
 ---
 
 ## Experiências selecionadas
@@ -95,6 +85,17 @@ Atuação na implantação, estabilização e evolução contínua do **ERP Sank
 - Automação de atividades manuais
 - Gestão de incidentes, dados e indicadores
 
+### Plataforma interna de operações
+
+**Produto · Arquitetura · Segurança · CI/CD**
+
+Desenvolvimento e evolução de uma plataforma interna integrada ao ERP, que reúne em um só lugar rotinas financeiras, comerciais e de gestão: conciliação de cartões, lançamento de pedidos, emissão de tributos, central de tickets e acompanhamento de iniciativas estratégicas.
+
+- Modernização de um monólito em módulos independentes por domínio, com comunicação autenticada entre serviços
+- Migrations versionadas por domínio e validação de esquema no pipeline
+- Varredura automática de segredos e de SQL concatenado a cada entrega
+- Permissões por módulo, papel e pessoa, sempre validadas no servidor
+
 ### CRM interno e inteligência comercial
 
 **Produto · Dados · Business Intelligence**
@@ -107,7 +108,7 @@ Desenvolvimento e evolução de soluções internas de CRM e BI integradas ao ER
 
 Desenvolvimento e coordenação de integrações entre sistemas corporativos, plataformas digitais, serviços financeiros, logística e canais de atendimento.
 
-`Sankhya ERP` · `Mercado Livre` · `VNDA` · `Intelipost` · `Equals` · `Suri` · `n8n` · `WhatsApp`
+`Sankhya ERP` · `Mercado Livre` · `Nuvemshop` · `VNDA` · `Intelipost` · `Equals` · `Pagar.me` · `Cielo` · `Microsoft Graph` · `Suri` · `n8n` · `WhatsApp`
 
 Conceitos aplicados: `REST APIs` · `Webhooks` · `ETL/ELT` · `Filas` · `Jobs` · `Autenticação` · `Observabilidade`
 
@@ -119,6 +120,7 @@ Uso IA para gerar impacto concreto em produtividade, automação, experiência e
 - Automação de atendimento e workflows
 - Análise e classificação de documentos
 - Integração de sistemas com LLMs
+- Servidores MCP que conectam sistemas internos a assistentes como Claude e ChatGPT, com OAuth 2.0 e permissões por usuário
 - Agentes de IA e orquestração com n8n
 - Recursos inteligentes em produtos SaaS
 
@@ -156,18 +158,18 @@ Desenvolvimento de uma plataforma para emissão e gestão de **Nota Fiscal de Se
 
 ### Personal Cockpit — produto desktop local-first
 
-Aplicativo desktop construído com **Wails, Go, React, TypeScript e SQLite**. O repositório público expõe arquitetura modular, migrations, serviços, testes e documentação técnica — uma evidência verificável da capacidade de transformar uma visão de produto em software estruturado.
+Aplicativo desktop construído com **Wails, Go, React, TypeScript e SQLite**, com os dados guardados no próprio computador. O repositório público expõe arquitetura modular, migrations, serviços, testes e documentação técnica — uma evidência verificável da capacidade de transformar uma visão de produto em software estruturado.
 
 | Produto | Engenharia | Qualidade |
 | :-- | :-- | :-- |
-| Dashboard, tarefas, notas, calendário, categorias e temas claro/escuro | Go no backend, React/TypeScript no frontend, SQLite e separação por serviços | Migrations, testes automatizados, documentação de arquitetura e roadmap |
+| Dashboard, tarefas, notas, calendário, categorias e temas claro/escuro na v1.0; quadro kanban, controle financeiro, estoque e integrações com Google Calendar e WhatsApp em evolução | Go no backend, React/TypeScript no frontend, SQLite e separação por serviços | Migrations, testes automatizados dos serviços e documentação de arquitetura, banco de dados e roadmap |
 
 <div align="center">
 
 [![Código público](https://img.shields.io/badge/Código_público-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit)
 [![Arquitetura](https://img.shields.io/badge/Arquitetura-5128B5?style=for-the-badge&logo=diagramsdotnet&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit/blob/main/docs/ARCHITECTURE.md)
 [![Testes](https://img.shields.io/badge/Testes-00AEFF?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit/blob/main/services/task_test.go)
-[![Roadmap](https://img.shields.io/badge/Roadmap-202020?style=for-the-badge&logo=githubprojects&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit/blob/main/docs/ROADMAP.md)
+[![Roadmap](https://img.shields.io/badge/Roadmap-202020?style=for-the-badge&logo=roadmapdotsh&logoColor=white)](https://github.com/GustavoLemosUp/personal-cockpit/blob/main/docs/ROADMAP.md)
 
 </div>
 
@@ -204,8 +206,9 @@ Mantenho proximidade técnica para compreender desafios de engenharia, discutir 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-5128B5?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-202020?style=flat-square&logo=linux&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-5128B5?style=flat-square&logo=n8n&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-202020?style=flat-square&logo=openai&logoColor=white)
-![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-00AEFF?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-202020?style=flat-square&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00AEFF?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Agentes de IA](https://img.shields.io/badge/Agentes_de_IA-5128B5?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
@@ -224,13 +227,9 @@ Atualmente aprofundo conhecimentos em **Engenharia de Dados, System Design, Arqu
 
 ## O que você encontrará por aqui
 
-- APIs e integrações entre sistemas
-- Automação de processos e workflows
-- Backends com Java, Go, Node.js e Python
-- Aplicações web e produtos digitais
-- Estudos de arquitetura e engenharia de software
-- Inteligência Artificial aplicada a problemas de negócio
-- Projetos e experimentos de Engenharia de Dados
+- Produtos digitais, APIs e integrações entre sistemas
+- Automação de processos e Inteligência Artificial aplicada ao negócio
+- Estudos de arquitetura, engenharia de software e Engenharia de Dados
 
 > Parte significativa do meu trabalho não pode ser publicada por envolver contratos, propriedade intelectual, segurança e proteção de dados. Este GitHub apresenta uma amostra da minha atuação técnica e dos assuntos que estudo e desenvolvo.
 
